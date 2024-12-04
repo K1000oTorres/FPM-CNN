@@ -1,2 +1,2 @@
-"# FPM-CNN" 
-"# FPM-CNN" 
+They present a method that models the Fourier Ptychograph forward process using a CNN and recovers the complex object information in the network training process. In the proposed approach, the network’s input is the Point Spread Function (PSF) in the spatial domain. The object is treated as 2D learnable weights of a convolution layer. The output of the network is modeled as the loss function that is intended to be minimized.
+
